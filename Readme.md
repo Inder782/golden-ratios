@@ -20,7 +20,7 @@ Pick your stocks, choose a time period or custom date range, and instantly get a
 
 ## UI Preview
 
-![App Screenshot](assets\ui.png)
+![App Screenshot](assets/ui.png)
 
 ---
 
